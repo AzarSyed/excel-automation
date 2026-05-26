@@ -1,0 +1,169 @@
+Customer ID,Name,Email,Phone,Company,City,Country,Annual Revenue,Join Date,Account Status
+CUS-0138,Mia Roberts,mroberts@apexdynamics.net,+1-480-414-3762,Apex Dynamics,San Jose,Canada,2452989.68,2018-12-27,Active
+CUS-0031,Isabella Young,,+1-299-648-8412,Frontier Tech,Philadelphia,USA,,2019-04-17,Active
+CUS-0120,Ava Scott,ascott@graniteholdings.org,+1-861-291-4079,Granite Holdings,San Diego,Canada,4568029.7,2022-07-26,Churned
+CUS-0030,Emma Young,eyoung@bluewavecorp.net,+1-625-287-2901,Bluewave Corp,Chicago,UK,1566332.82,2023-02-09,Active
+CUS-0143,Amelia Torres,atorres@graniteholdings.com,+1-433-429-3149,Granite Holdings,Houston,USA,2952567.25,2019-11-24,Active
+CUS-0027,Amelia Torres,atorres@ironcladnetworks.org,+1-853-287-2791,Ironclad Networks,Houston,UK,840029.08,2018-07-01,Prospect
+CUS-0010,Logan Wright,lwright@apexdynamics.com,+1-522-216-4394,Apex Dynamics,San Jose,Canada,3763749.8,2022-06-20,Active
+CUS-0052,Liam Nguyen,lnguyen@crestlinepartners.net,+1-667-200-8009,Crestline Partners,Houston,Canada,4411917.34,2021-05-21,Active
+CUS-0106,Sophia King,sking@ironcladnetworks.net,+1-357-255-6911,Ironclad Networks,New York,Australia,447265.51,2023-05-22,Active
+CUS-0061,Mason Allen,mallen@bluewavecorp.com,+1-711-853-2163,Bluewave Corp,Dallas,USA,4934543.84,2021-07-20,Active
+CUS-0016,Ava Young,ayoung@frontiertech.net,+1-304-335-2430,Frontier Tech,Chicago,Australia,2249729.95,2024-03-22,Prospect
+CUS-0157,Logan Scott,lscott@junipergroup.com,+1-885-546-9504,Juniper Group,Dallas,Germany,,2020-10-15,Inactive
+CUS-0134,Charlotte Hernandez,chernandez@crestlinepartners.org,+1-543-870-2463,Crestline Partners,Houston,UK,,2021-06-11,Inactive
+CUS-0046,Logan Hernandez,lhernandez@crestlinepartners.net,+1-920-499-5740,Crestline Partners,San Jose,UK,4762462.75,2023-10-09,Churned
+CUS-0069,Liam Young,lyoung@harborindustries.org,+1-568-256-9185,Harbor Industries,San Jose,Canada,1844762.01,2020-11-10,Active
+CUS-0086,Aiden Scott,ascott@graniteholdings.net,+1-230-591-7990,Granite Holdings,Chicago,UK,1081433.37,2020-02-06,Active
+CUS-0025,Mia Young,myoung@crestlinepartners.org,+1-510-447-5139,Crestline Partners,Chicago,Australia,3947493.05,2018-10-30,Inactive
+CUS-0110,Mia Hall,mhall@ironcladnetworks.net,+1-974-803-4727,Ironclad Networks,Dallas,USA,4205577.86,2023-11-11,Inactive
+CUS-0076,Lucas Walker,lwalker@bluewavecorp.com,+1-742-443-7878,Bluewave Corp,San Diego,USA,4863070.59,2019-08-07,Churned
+CUS-0109,Mason Roberts,mroberts@emeraldsolutions.net,+1-676-469-4706,Emerald Solutions,Phoenix,Germany,317580.45,2019-02-01,Active
+CUS-0020,Charlotte Clark,cclark@frontiertech.net,+1-452-938-9123,Frontier Tech,San Jose,Germany,985785.64,2019-03-15,Active
+CUS-0017,Sophia Clark,sclark@apexdynamics.com,+1-562-767-2524,Apex Dynamics,San Jose,Germany,3924349.23,2022-04-27,Active
+CUS-0032,AIDEN HALL,ahall@bluewavecorp.org,+1-368-958-4996,Bluewave Corp,Dallas,Canada,2764032.35,2021-09-17,Prospect
+CUS-0019,Olivia Walker,owalker@emeraldsolutions.net,+1-704-349-2036,Emerald Solutions,Chicago,Australia,1387049.74,2021-05-12,Inactive
+CUS-0013,Charlotte King,cking@junipergroup.net,+1-992-534-1485,Juniper Group,Phoenix,Australia,2458111.25,2021-12-28,Prospect
+CUS-0010,Logan Wright,lwright@apexdynamics.com,+1-522-216-4394,Apex Dynamics,San Jose,Canada,3763749.8,2022-06-20,Active
+CUS-0083,Ava Walker,awalker@crestlinepartners.com,+1-614-663-5093,Crestline Partners,Los Angeles,Australia,518517.67,2019-07-27,Active
+CUS-0099,Olivia King,oking@frontiertech.org,+1-426-854-2705,Frontier Tech,San Diego,Canada,1662530.45,2018-11-15,Active
+CUS-0077,Ava Clark,aclark@apexdynamics.com,+1-732-622-7102,Apex Dynamics,San Diego,USA,2908045.43,2023-09-02,Active
+CUS-0056,Noah Allen,nallen@bluewavecorp.org,+1-304-305-6133,Bluewave Corp,Philadelphia,UK,,2019-06-30,Churned
+CUS-0043,Aiden Torres,atorres@apexdynamics.org,+1-651-759-4580,Apex Dynamics,San Antonio,USA,,2020-10-10,Active
+CUS-0057,Mia Lewis,mlewis@bluewavecorp.org,+1-776-208-3688,Bluewave Corp,San Diego,UK,3614935.81,2019-09-13,Inactive
+CUS-0149,Lucas Young,lyoung@frontiertech.com,+1-202-213-2458,Frontier Tech,Los Angeles,Germany,3348419.43,2019-09-03,Active
+CUS-0112,Logan Hernandez,lhernandez@junipergroup.org,+1-835-350-2970,Juniper Group,San Diego,Canada,4745816.8,2019-11-16,Active
+CUS-0070,Amelia King,aking@bluewavecorp.com,+1-958-721-1042,Bluewave Corp,New York,USA,1230311.74,2023-04-17,Active
+CUS-0137,Noah Hall,nhall@graniteholdings.org,+1-668-346-6183,Granite Holdings,Chicago,USA,2443028.42,2019-12-26,Active
+CUS-0003,Lucas Lewis,llewis@apexdynamics.com,+1-717-666-7114,Apex Dynamics,New York,Germany,3192265.67,2023-06-03,Churned
+CUS-0094,Logan Robinson,,+1-689-200-6435,Apex Dynamics,San Jose,Canada,4034162.61,2021-10-27,Churned
+CUS-0135,Charlotte Hall,chall@frontiertech.net,+1-799-501-8598,Frontier Tech,Los Angeles,Australia,277848.0,2018-10-19,Inactive
+CUS-0153,Liam Hall,lhall@frontiertech.com,+1-316-610-7557,Frontier Tech,San Diego,UK,4180184.64,2023-05-13,Inactive
+CUS-0091,Liam Robinson,  lrobinson@deltasystems.net,+1-746-954-1916,Delta Systems,Houston,Germany,4234060.4,2022-05-10,Active
+CUS-0115,Amelia Nguyen,anguyen@apexdynamics.org,+1-838-801-9561,Apex Dynamics,San Antonio,USA,2078067.57,2019-08-31,Prospect
+CUS-0027,Amelia Torres,atorres@ironcladnetworks.org,+1-853-287-2791,Ironclad Networks,Houston,UK,840029.08,2018-07-01,Prospect
+CUS-0145,Liam Wright,lwright@apexdynamics.com,+1-906-318-7828,Apex Dynamics,San Diego,Australia,626739.36,2020-11-01,Inactive
+CUS-0136,AMELIA ROBINSON,arobinson@ironcladnetworks.com,+1-897-590-9680,Ironclad Networks,Phoenix,Australia,279769.23,2019-09-10,Active
+CUS-0098,Lucas Scott,lscott@emeraldsolutions.com,+1-381-946-1029,Emerald Solutions,San Jose,Australia,4255277.26,2024-05-13,Active
+CUS-0066,Noah Clark,nclark@graniteholdings.com,+1-664-826-1901,Granite Holdings,Phoenix,Canada,,2019-07-17,Churned
+CUS-0037,Liam Robinson,lrobinson@emeraldsolutions.com,+1-387-582-3316,Emerald Solutions,Dallas,Australia,2097013.14,2019-07-19,Prospect
+CUS-0127,Olivia King,oking@apexdynamics.com,+1-458-822-6004,Apex Dynamics,Phoenix,Australia,,2021-11-29,Inactive
+CUS-0023,Charlotte Robinson,crobinson@frontiertech.net,+1-487-602-6980,Frontier Tech,Los Angeles,Germany,1007002.24,2024-02-13,Active
+CUS-0102,Mason Allen,mallen@frontiertech.org,+1-584-303-8855,Frontier Tech,San Jose,Canada,821655.99,2018-10-29,Active
+CUS-0160,Sophia Allen,sallen@deltasystems.com,+1-670-654-8341,Delta Systems,Los Angeles,Australia,2240869.92,2019-05-02,Inactive
+CUS-0097,Mason Wright,mwright@frontiertech.com,+1-924-775-6846,Frontier Tech,Houston,Germany,4074126.64,2022-03-30,Active
+CUS-0012,LUCAS CLARK,lclark@ironcladnetworks.org,+1-554-254-2600,Ironclad Networks,San Antonio,Canada,,2021-10-27,Prospect
+CUS-0068,Amelia Clark,aclark@apexdynamics.net,+1-639-478-9582,Apex Dynamics,Los Angeles,UK,3564493.01,2024-06-19,Churned
+CUS-0133,Ethan Hernandez,ehernandez@emeraldsolutions.com,+1-873-771-3967,Emerald Solutions,Phoenix,USA,2359196.56,2020-11-25,Churned
+CUS-0007,Mia Nguyen,mnguyen@bluewavecorp.org,+1-865-977-1519,Bluewave Corp,Los Angeles,Australia,1902527.47,2024-03-13,Inactive
+CUS-0028,Mia Wright,mwright@graniteholdings.net,+1-640-308-1172,Granite Holdings,Los Angeles,UK,undisclosed,2023-10-26,Prospect
+CUS-0079,Amelia Torres,atorres@graniteholdings.org,+1-953-534-6211,Granite Holdings,San Diego,UK,1175720.02,2020-04-10,Active
+CUS-0146,Lucas Lewis,llewis@deltasystems.org,+1-902-845-1152,Delta Systems,Phoenix,Australia,3311706.23,2023-11-02,Active
+CUS-0039,Ethan Nguyen,enguyen@harborindustries.org,+1-254-567-1157,Harbor Industries,San Diego,Canada,983691.17,2022-04-22,Prospect
+CUS-0042,Lucas Torres,ltorres@harborindustries.org,+1-723-315-2871,Harbor Industries,Phoenix,Germany,4118181.21,2022-02-11,Prospect
+CUS-0005,Emma Hernandez,ehernandez@graniteholdings.com,+1-309-298-9591,Granite Holdings,Chicago,Canada,967740.96,2023-11-27,Active
+CUS-0142,Lucas Hernandez,lhernandez@junipergroup.org,+1-545-644-3192,Juniper Group,Philadelphia,Australia,1802661.92,2020-02-11,Active
+CUS-0033,Sophia Young,syoung@deltasystems.net,+1-844-388-4053,Delta Systems,San Antonio,Australia,155669.45,2020-03-19,Inactive
+CUS-0067,Emma Lewis,elewis@harborindustries.net,+1-735-729-5247,Harbor Industries,Chicago,UK,643383.73,2021-01-05,Churned
+CUS-0128,AVA ROBINSON,arobinson@harborindustries.net,+1-893-733-7506,Harbor Industries,San Jose,USA,46664.39,2022-03-13,Prospect
+CUS-0096,Lucas Wright,lwright@graniteholdings.org,+1-303-544-5944,Granite Holdings,Philadelphia,Canada,,2022-11-25,Churned
+CUS-0011,Ava Lewis,alewis@junipergroup.com,+1-780-598-9856,Juniper Group,Philadelphia,Australia,3780490.23,2019-07-28,Churned
+CUS-0101,Liam Hall,lhall@emeraldsolutions.com,+1-937-201-1788,Emerald Solutions,San Antonio,Australia,,2019-11-13,Inactive
+CUS-0116,LOGAN KING,lking@bluewavecorp.com,+1-776-998-2654,Bluewave Corp,Phoenix,Germany,4401877.57,2022-08-11,Active
+CUS-0001,Aiden Young,,+1-372-950-6770,Harbor Industries,Chicago,Canada,3604364.52,2023-06-24,Active
+CUS-0126,Mia Robinson,mrobinson@deltasystems.net,+1-867-619-9409,Delta Systems,New York,USA,2375745.06,2019-06-26,Churned
+CUS-0118,SOPHIA HALL,shall@deltasystems.com,+1-963-686-5400,Delta Systems,Philadelphia,USA,undisclosed,2021-05-26,Active
+CUS-0065,Isabella Hall,ihall@graniteholdings.org,+1-849-981-2083,Granite Holdings,Phoenix,Australia,3652492.3,2020-09-04,Active
+CUS-0045,Logan Wright,lwright@graniteholdings.com,+1-830-342-4385,Granite Holdings,Houston,USA,2854670.98,2023-12-21,Active
+CUS-0121,Mason Torres,mtorres@ironcladnetworks.net,+1-257-727-3604,Ironclad Networks,Los Angeles,UK,3550751.3,2022-07-11,Active
+CUS-0029,Logan Scott,lscott@junipergroup.com,+1-656-583-7408,Juniper Group,San Diego,Germany,3455282.16,2019-09-10,Active
+CUS-0041,Charlotte Torres,ctorres@deltasystems.net,+1-233-481-4683,Delta Systems,Dallas,UK,849362.8,2023-02-17,Prospect
+CUS-0119,Ava Nguyen,anguyen@harborindustries.org,+1-901-300-4734,Harbor Industries,Chicago,UK,4871354.93,2022-12-20,Active
+CUS-0026,Logan Young,,+1-747-718-7853,Juniper Group,Dallas,USA,3955697.38,2022-01-12,Churned
+CUS-0024,Mia Torres,,+1-944-672-4434,Ironclad Networks,San Diego,UK,4158096.23,2018-10-11,Inactive
+CUS-0124,Mason King,mking@harborindustries.com,+1-685-800-6730,Harbor Industries,Philadelphia,Canada,4189892.31,2020-11-25,Churned
+CUS-0082,Lucas King,lking@apexdynamics.com,+1-535-351-2494,Apex Dynamics,Houston,UK,1987259.87,2018-07-20,Churned
+CUS-0080,Charlotte Torres,ctorres@junipergroup.com,+1-359-308-3693,Juniper Group,San Diego,Australia,1577026.11,2019-05-10,Prospect
+CUS-0085,Liam Robinson,lrobinson@harborindustries.com,+1-294-539-3007,Harbor Industries,New York,Australia,262682.13,2024-06-08,Inactive
+CUS-0040,Isabella Wright,iwright@harborindustries.net,+1-901-703-7809,Harbor Industries,San Diego,Australia,844594.9,2024-05-04,Active
+CUS-0095,Olivia Torres,otorres@frontiertech.com,+1-222-351-3320,Frontier Tech,Los Angeles,Germany,4304740.64,2018-10-25,Active
+CUS-0087,Ava Young,ayoung@crestlinepartners.com,+1-828-834-5026,Crestline Partners,Phoenix,Australia,undisclosed,2024-03-05,Inactive
+CUS-0113,Charlotte Robinson,crobinson@crestlinepartners.com,+1-633-280-8133,Crestline Partners,Houston,Canada,4172199.51,2020-11-22,Active
+CUS-0106,Sophia King,,+1-357-255-6911,Ironclad Networks,New York,Australia,447265.51,2023-05-22,Active
+CUS-0141,Olivia Clark,oclark@graniteholdings.org,+1-802-513-3736,Granite Holdings,Los Angeles,USA,,2021-04-06,Inactive
+CUS-0048,Charlotte Nguyen,cnguyen@graniteholdings.net,+1-345-791-5402,Granite Holdings,San Antonio,Australia,2265438.7,2019-01-17,Inactive
+CUS-0129,Mia King,mking@junipergroup.net,+1-505-900-2771,Juniper Group,San Diego,USA,1688055.43,2021-02-06,Churned
+CUS-0062,Sophia Nguyen,snguyen@junipergroup.net,+1-574-759-3830,Juniper Group,San Diego,USA,93280.11,2018-10-04,Active
+CUS-0074,Lucas King,lking@deltasystems.net,+1-577-805-9083,Delta Systems,Houston,Germany,3804806.28,2020-10-01,Active
+CUS-0034,Logan Allen,lallen@graniteholdings.com,+1-921-419-4371,Granite Holdings,Phoenix,USA,2890966.05,2024-01-09,Active
+CUS-0158,Ethan Wright,ewright@graniteholdings.com,+1-771-827-1894,Granite Holdings,New York,Canada,2532782.18,2023-04-07,Inactive
+CUS-0125,Aiden Scott,ascott@bluewavecorp.net,+1-228-595-1813,Bluewave Corp,Chicago,Germany,3901352.37,2020-05-27,Active
+CUS-0132,Sophia Allen,sallen@apexdynamics.org,+1-925-785-4111,Apex Dynamics,Philadelphia,Canada,3434727.37,2023-05-03,Churned
+CUS-0063,Ava Robinson,arobinson@apexdynamics.com,+1-607-718-5693,Apex Dynamics,Dallas,Australia,2123640.42,2022-07-06,Active
+CUS-0141,Olivia Clark,oclark@graniteholdings.org,+1-802-513-3736,Granite Holdings,Los Angeles,USA,1498029.24,2021-04-06,Inactive
+CUS-0105,Emma Clark,eclark@frontiertech.com,+1-394-619-9849,Frontier Tech,Phoenix,UK,,2019-01-28,Active
+CUS-0139,Logan Allen,lallen@graniteholdings.net,+1-639-688-7280,Granite Holdings,New York,USA,2673575.19,2022-03-09,Active
+CUS-0054,Lucas Torres,ltorres@deltasystems.net,+1-871-293-2559,Delta Systems,New York,Canada,2389265.47,2019-06-28,Prospect
+CUS-0006,Aiden Hall,ahall@emeraldsolutions.net,+1-280-582-7652,Emerald Solutions,San Diego,Germany,1223607.39,2020-07-14,Active
+CUS-0123,Amelia Hall,ahall@deltasystems.net,+1-577-675-9275,Delta Systems,San Antonio,USA,3409060.06,2020-09-17,Active
+CUS-0004,Mason Roberts,mroberts@apexdynamics.org,+1-764-621-1194,Apex Dynamics,New York,Germany,3613741.68,2024-01-04,Active
+CUS-0156,Amelia Young,ayoung@bluewavecorp.net,+1-651-247-2037,Bluewave Corp,Phoenix,UK,71677.46,2023-11-20,Churned
+CUS-0050,Mason Wright,mwright@frontiertech.com,+1-747-607-4568,Frontier Tech,San Antonio,Canada,2478627.59,2021-08-15,Active
+CUS-0036,Liam Hall,lhall@frontiertech.net,+1-832-376-5873,Frontier Tech,San Jose,Germany,,2019-07-03,Active
+CUS-0081,Ethan Torres,etorres@deltasystems.net,+1-515-674-5341,Delta Systems,Los Angeles,USA,796500.73,2021-05-31,Churned
+CUS-0078,Mia Nguyen,,+1-806-781-2020,Granite Holdings,San Antonio,Canada,1191490.96,2020-12-05,Active
+CUS-0035,ETHAN HALL,ehall@deltasystems.net,+1-316-468-9019,Delta Systems,Dallas,UK,2988884.44,2022-05-27,Prospect
+CUS-0047,Aiden Clark,aclark@crestlinepartners.net,+1-260-483-3078,Crestline Partners,Chicago,Canada,739754.78,2021-08-12,Active
+CUS-0008,Emma Wright,ewright@apexdynamics.org,+1-375-284-9189,Apex Dynamics,San Antonio,UK,2833624.57,2019-01-26,Prospect
+CUS-0044,Aiden Roberts,aroberts@harborindustries.net,+1-556-289-8193,Harbor Industries,Los Angeles,Canada,1057292.06,2021-12-07,Churned
+CUS-0071,Sophia Lewis,slewis@crestlinepartners.com,+1-766-931-7870,Crestline Partners,Houston,UK,1248833.28,2021-08-03,Active
+CUS-0148,Logan Robinson,lrobinson@emeraldsolutions.org,+1-406-566-7713,Emerald Solutions,Phoenix,Canada,206634.48,2023-07-27,Active
+CUS-0111,Isabella Wright,iwright@harborindustries.org,+1-441-687-5896,Harbor Industries,Los Angeles,Australia,4514858.23,2018-05-23,Prospect
+CUS-0092,Amelia Nguyen,anguyen@crestlinepartners.com,+1-442-806-6210,Crestline Partners,Philadelphia,Germany,150750.78,2021-12-11,Prospect
+CUS-0084,Emma Roberts,eroberts@deltasystems.com,+1-402-610-7098,Delta Systems,Los Angeles,Germany,2934732.57,2018-11-04,Active
+CUS-0151,MASON ROBERTS,mroberts@bluewavecorp.com,+1-240-497-6901,Bluewave Corp,Philadelphia,Australia,3695315.58,2019-01-25,Active
+CUS-0155,Mia Young,,+1-588-997-6875,Crestline Partners,San Jose,USA,4314253.11,2019-06-20,Inactive
+CUS-0090,Emma Hall,ehall@junipergroup.com,+1-230-997-5602,Juniper Group,New York,Australia,2651867.14,2020-08-11,Active
+CUS-0009,Amelia Roberts,aroberts@deltasystems.com,+1-908-780-8790,Delta Systems,Phoenix,USA,4621554.74,2021-02-22,Prospect
+CUS-0005,Emma Hernandez,ehernandez@graniteholdings.com,+1-309-298-9591,Granite Holdings,Chicago,Canada,967740.96,2023-11-27,Active
+CUS-0114,Amelia Scott,ascott@bluewavecorp.com,+1-597-769-7510,Bluewave Corp,Dallas,UK,4284554.66,2023-10-30,Inactive
+CUS-0014,Sophia Allen,sallen@crestlinepartners.org,+1-799-876-7227,Crestline Partners,Los Angeles,Germany,1483943.61,2020-10-06,Churned
+CUS-0060,Emma Nguyen,enguyen@emeraldsolutions.com,+1-730-821-9348,Emerald Solutions,Houston,Australia,1484754.84,2018-08-12,Active
+CUS-0144,Ethan Scott,,+1-855-461-9761,Apex Dynamics,San Jose,USA,2973681.1,2018-07-16,Churned
+CUS-0018,Ava Allen,aallen@graniteholdings.com,+1-942-772-4977,Granite Holdings,San Jose,Germany,856218.79,2022-04-09,Active
+CUS-0073,Liam Young,lyoung@emeraldsolutions.net,+1-535-288-8483,Emerald Solutions,New York,UK,1011349.06,2024-04-28,Active
+CUS-0147,Logan King,lking@crestlinepartners.net,+1-307-723-2928,Crestline Partners,Phoenix,USA,3925952.73,2023-08-01,Active
+CUS-0140,Amelia Hall,ahall@ironcladnetworks.com,+1-218-892-1067,Ironclad Networks,Houston,Canada,3470688.49,2021-11-11,Active
+CUS-0154,Mia Torres,mtorres@crestlinepartners.com,+1-335-912-1960,Crestline Partners,Chicago,USA,2085978.31,2023-06-01,Prospect
+CUS-0064,Mia Hernandez,mhernandez@ironcladnetworks.org,+1-356-484-2369,Ironclad Networks,Phoenix,USA,2561410.44,2020-04-12,Active
+CUS-0055,Noah Hernandez,nhernandez@harborindustries.com,+1-208-912-6629,Harbor Industries,Los Angeles,Australia,3473214.7,2023-05-11,Active
+CUS-0108,Mason Wright,mwright@emeraldsolutions.com,+1-857-757-7349,Emerald Solutions,Chicago,UK,4428608.54,2022-02-22,Active
+CUS-0051,Ethan Hernandez,ehernandez@junipergroup.com,+1-779-696-6631,Juniper Group,New York,USA,,2023-02-26,Active
+CUS-0143,Amelia Torres,atorres@graniteholdings.com,+1-433-429-3149,Granite Holdings,Houston,USA,2952567.25,2019-11-24,Active
+CUS-0059,Ethan Torres,,+1-483-860-2380,Crestline Partners,Houston,Germany,3008985.32,2021-03-13,Churned
+CUS-0049,Isabella Scott,iscott@emeraldsolutions.org,+1-577-665-8996,Emerald Solutions,Philadelphia,Germany,undisclosed,2019-01-17,Churned
+CUS-0089,Sophia Torres,storres@frontiertech.net,+1-757-696-6636,Frontier Tech,San Jose,Germany,1614806.05,2021-01-12,Active
+CUS-0022,Ethan King,eking@deltasystems.net,+1-521-381-7524,Delta Systems,Philadelphia,UK,3677023.08,2023-07-05,Prospect
+CUS-0058,Logan Wright,lwright@harborindustries.com,+1-288-302-3293,Harbor Industries,Los Angeles,Germany,3652745.65,2021-12-10,Inactive
+CUS-0104,AMELIA CLARK,aclark@frontiertech.org,+1-828-694-1507,Frontier Tech,San Antonio,Canada,,2022-11-14,Active
+CUS-0130,ETHAN NGUYEN,enguyen@emeraldsolutions.net,+1-871-928-5895,Emerald Solutions,Houston,Canada,2591294.99,2020-09-11,Active
+CUS-0038,Sophia Allen,sallen@crestlinepartners.net,+1-850-750-3838,Crestline Partners,Dallas,Canada,2453313.71,2019-07-29,Active
+CUS-0159,Aiden Lewis,,+1-528-446-6421,Bluewave Corp,Phoenix,USA,2539577.37,2024-03-04,Churned
+CUS-0002,AMELIA HERNANDEZ,ahernandez@apexdynamics.org,+1-234-276-1794,Apex Dynamics,New York,Australia,696082.74,2020-08-05,Active
+CUS-0053,Aiden Walker,,+1-569-456-2350,Bluewave Corp,Philadelphia,Canada,268418.5,2021-06-05,Churned
+CUS-0150,Charlotte Hernandez,chernandez@bluewavecorp.org,+1-940-303-5192,Bluewave Corp,Houston,Australia,4943442.99,2021-04-27,Active
+CUS-0131,Charlotte Nguyen,,+1-876-527-3292,Juniper Group,New York,Australia,4987370.81,2020-11-28,Inactive
+CUS-0152,Emma Nguyen,enguyen@crestlinepartners.org,+1-862-374-6384,Crestline Partners,Philadelphia,Australia,4775894.89,2021-01-03,Churned
+CUS-0104,Amelia Clark,aclark@frontiertech.org,+1-828-694-1507,Frontier Tech,San Antonio,Canada,3040514.95,2022-11-14,Active
+CUS-0100,Ethan Hall,ehall@crestlinepartners.org,+1-290-925-6500,Crestline Partners,San Diego,USA,1333410.08,2020-10-19,Churned
+CUS-0117,Sophia Wright,,+1-823-684-1613,Harbor Industries,Chicago,UK,2020840.05,2022-07-04,Active
+CUS-0088,Emma Clark,eclark@emeraldsolutions.net,+1-340-629-4267,Emerald Solutions,Dallas,Canada,3157464.4,2024-02-05,Active
+CUS-0075,Emma Allen,eallen@apexdynamics.com,+1-754-554-1157,Apex Dynamics,Philadelphia,USA,,2022-03-22,Churned
+CUS-0122,Charlotte Nguyen,cnguyen@ironcladnetworks.org,+1-229-377-4158,Ironclad Networks,Houston,USA,1254956.4,2023-02-13,Active
+CUS-0001,Aiden Young,,+1-372-950-6770,Harbor Industries,Chicago,Canada,3604364.52,2023-06-24,Active
+CUS-0021,Ava Roberts,aroberts@graniteholdings.net,+1-835-589-6399,Granite Holdings,San Diego,UK,2158774.94,2019-07-12,Active
+CUS-0072,Aiden Clark,aclark@junipergroup.net,+1-322-714-1862,Juniper Group,Chicago,Canada,4023646.72,2018-07-08,Inactive
+CUS-0107,LIAM ROBERTS,lroberts@deltasystems.com,+1-853-498-2342,Delta Systems,San Diego,USA,1548683.47,2022-06-17,Inactive
+CUS-0015,Liam Clark,lclark@emeraldsolutions.com,+1-589-928-3527,Emerald Solutions,San Antonio,UK,1809894.14,2019-01-10,Active
+CUS-0093,Logan Lewis,llewis@junipergroup.com,+1-704-755-6063,Juniper Group,Chicago,Australia,199439.07,2018-08-19,Active
+CUS-0103,Ava Roberts,aroberts@frontiertech.net,+1-307-275-6600,Frontier Tech,Chicago,Australia,812913.43,2018-11-04,Prospect

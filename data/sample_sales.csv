@@ -1,0 +1,236 @@
+Order ID,Date,Customer Name,Customer Email,Product,Category,Quantity,Unit Price,Total Amount,Region,Sales Rep,Status
+ORD-00070,2024-05-29,Mary Johnson,mary.johnson@business.io,Onboarding Package,Services,18.0,325.18,5853.24,South,Frank Lee,Pending
+ORD-00208,2024-05-10,Barbara Smith,barbara.smith@company.com,Mechanical Keyboard,Electronics,15.0,1685.18,25277.7,North,Frank Lee,Completed
+ORD-00181,2024-10-14,Richard Johnson,richard.johnson@business.io,Custom Training,Services,13.0,921.17,11975.21,South,Carol Johnson,Cancelled
+ORD-00010,2024-09-09,Linda Jones,linda.jones@business.io,Implementation,Services,19.0,1004.5,19085.5,North,Alice Chen,Completed
+ORD-00128,2024-08-23,  Mary Jackson  ,mary.jackson@gmail.com,Onboarding Package,Services,13.0,2155.78,28025.14,North,Carol Johnson,Cancelled
+ORD-00110,2024-11-01,Linda Taylor,linda.taylor@yahoo.com,Mechanical Keyboard,Electronics,7.0,1470.08,10290.56,North,Carol Johnson,Completed
+ORD-00197,2024-06-01,Barbara Johnson,barbara.johnson@gmail.com,4K Monitor,Electronics,16.0,473.91,7582.56,Central,Emma Wilson,Completed
+ORD-00094,2024-01-29,James Johnson,james.johnson@outlook.com,4K Monitor,Electronics,6.0,1738.05,10428.3,East,Carol Johnson,Completed
+ORD-00192,2024-05-27,Robert Moore,robert.moore@gmail.com,Wireless Projector,Office,12.0,2386.97,28643.64,North,Carol Johnson,Pending
+ORD-00016,2024-12-09,Michael Moore,michael.moore@company.com,Standing Desk,Office,18.0,1890.6,34030.8,East,David Kim,Cancelled
+ORD-00123,2024-06-15,Jennifer Anderson,jennifer.anderson@outlook.com,Email Marketing Tool,Software,14.0,1139.57,15953.98,Central,Emma Wilson,Completed
+ORD-00056,2024-06-21,Michael White,michael.white@outlook.com,CRM License,Software,9.0,953.96,8585.64,West,Carol Johnson,Pending
+ORD-00155,2024-01-23,Patricia Taylor,patricia.taylor@yahoo.com,USB-C Hub,Electronics,3.0,868.55,2605.65,East,Emma Wilson,Completed
+ORD-00031,2024-11-20,David Miller,david.miller@corp.net,Project Manager Pro,Software,10.0,1516.02,15160.2,East,Emma Wilson,Pending
+ORD-00202,2024-07-03,James Wilson,james.wilson@corp.net,Custom Training,Services,19.0,1809.97,34389.43,South,Alice Chen,Processing
+ORD-00148,2024-01-14,Linda White,linda.white@outlook.com,Email Marketing Tool,Software,3.0,2366.56,7099.68,West,Alice Chen,Pending
+ORD-00020,2024-07-25,Mary Brown,mary.brown@gmail.com,Label Printer,Office,14.0,1033.63,14470.82,East,Alice Chen,Completed
+ORD-00113,2024-11-25,Mary Moore,mary.moore@company.com,4K Monitor,Electronics,17.0,561.65,9548.05,North,Alice Chen,Pending
+ORD-00063,2024-02-14,William Taylor,william.taylor@yahoo.com,Wireless Projector,Office,14.0,2066.07,28924.98,East,David Kim,Completed
+ORD-00025,2024-10-31,John Garcia,john.garcia@gmail.com,Standing Desk,Office,2.0,2402.33,4804.66,North,Frank Lee,Completed
+ORD-00210,2024-07-11,Richard White,richard.white@company.com,Analytics Suite,Software,14.0,942.4,13193.6,North,Frank Lee,Processing
+ORD-00011,2024-08-27,Richard Thomas,richard.thomas@business.io,Analytics Suite,Software,14.0,1495.05,20930.7,Central,Carol Johnson,Cancelled
+ORD-00096,2024-05-10,Joseph Wilson,joseph.wilson@company.com,Email Marketing Tool,Software,19.0,366.35,6960.65,North,David Kim,Completed
+ORD-00145,2024-05-02,Joseph Davis,joseph.davis@business.io,Email Marketing Tool,Software,20.0,719.46,14389.2,East,David Kim,Completed
+ORD-00190,2024-10-12,Michael Davis,michael.davis@outlook.com,Custom Training,Services,,1529.08,13761.72,East,Bob Martinez,Completed
+ORD-00026,2024-12-02,Mary Williams,mary.williamscompany.com,Ergonomic Chair,Office,19.0,623.07,11838.33,Central,Emma Wilson,Cancelled
+ORD-00087,2024-07-31,  Robert Williams  ,robert.williams@outlook.com,Email Marketing Tool,Software,7.0,2305.44,16138.08,East,Emma Wilson,Completed
+ORD-00184,2024-06-12,Robert Taylor,robert.taylor@business.io,Wireless Projector,Office,5.0,1519.58,7597.9,South,David Kim,Cancelled
+ORD-00085,2024-02-28,  Jessica Williams  ,jessica.williams@yahoo.com,Analytics Suite,Software,10.0,1381.58,13815.8,West,Alice Chen,Processing
+ORD-00019,2024-07-27,Sarah Davis,sarah.davis@company.com,Standing Desk,Office,18.0,339.45,6110.1,South,Alice Chen,Completed
+ORD-00147,2024-02-12,Patricia Brown,patricia.brown@outlook.com,4K Monitor,Electronics,12.0,1390.8,16689.6,South,Carol Johnson,Pending
+ORD-00067,2024-12-25,Jessica Taylor,jessica.taylor@outlook.com,Implementation,Services,,1331.99,23975.82,West,Carol Johnson,Completed
+ORD-00046,2024-07-31,Sarah Williams,sarah.williams@company.com,CRM License,Software,2.0,619.65,1239.3,Central,Bob Martinez,Processing
+ORD-00140,2024-10-31,Barbara Thomas,barbara.thomas@yahoo.com,Mechanical Keyboard,Electronics,5.0,2292.69,11463.45,North,Carol Johnson,Cancelled
+ORD-00126,2024-06-03,Mary Smith,not-an-email,Label Printer,Office,2.0,559.08,1118.16,South,Bob Martinez,Completed
+ORD-00171,2024-09-14,Jennifer Jones,jennifer.jones@company.com,Support Plan,Services,18.0,1603.08,28855.44,North,Alice Chen,Cancelled
+ORD-00165,2024-01-14,William Davis,william.davis@gmail.com,Project Manager Pro,Software,13.0,792.81,10306.53,South,David Kim,Cancelled
+ORD-00017,2024-10-10,David Smith,david.smith@business.io,Ergonomic Chair,Office,8.0,569.49,4555.92,South,Emma Wilson,Completed
+ORD-00157,2024-08-30,Barbara Thomas,barbara.thomas@business.io,Wireless Mouse,Electronics,2.0,795.82,1591.64,East,Alice Chen,Processing
+ORD-00178,2024-06-09,Jennifer Taylor,jennifer.taylor@business.io,Implementation,Services,20.0,1051.15,21023.0,South,Bob Martinez,Pending
+ORD-00162,2024-11-22,Mary Williams,mary.williams@corp.net,Implementation,Services,9.0,1602.27,14420.43,West,Carol Johnson,Cancelled
+ORD-00205,2024-12-26,John White,john.white@business.io,Analytics Suite,Software,20.0,2184.1,43682.0,East,Alice Chen,Cancelled
+ORD-00125,2024-02-26,Patricia Anderson,patricia.anderson@company.com,Wireless Projector,Office,9.0,546.76,4920.84,East,Frank Lee,Processing
+ORD-00061,2024-11-27,Susan Williams,susan.williams@business.io,USB-C Hub,Electronics,18.0,1076.65,19379.7,East,Alice Chen,Pending
+ORD-00200,2024-06-16,Richard Jackson,richard.jackson@business.io,Analytics Suite,Software,20.0,2141.79,42835.8,North,David Kim,Processing
+ORD-00053,2024-10-06,Richard Jackson,richard.jackson@business.io,Ergonomic Chair,Office,12.0,753.54,9042.48,Central,Bob Martinez,Pending
+ORD-00083,2024-01-28,James White,,4K Monitor,Electronics,17.0,2064.06,35089.02,South,Emma Wilson,Completed
+ORD-00118,2024-01-31,Susan Jones,susan.jones@business.io,Laptop Pro 15,Electronics,14.0,250.44,3506.16,Central,Emma Wilson,Cancelled
+ORD-00156,2024-08-22,Robert Williams,robert.williams@corp.net,Email Marketing Tool,Software,16.0,1583.01,25328.16,North,Carol Johnson,Completed
+ORD-00149,2024-06-12,Susan Davis,susan.davis@gmail.com,Support Plan,Services,13.0,2486.36,N/A,North,Frank Lee,Processing
+ORD-00159,2024-09-22,Sarah Harris,sarah.harris@outlook.com,Wireless Projector,Office,11.0,2434.56,26780.16,East,Alice Chen,Processing
+,,,,,,,,,,,
+ORD-00163,2024-02-04,Joseph Johnson,joseph.johnson@yahoo.com,CRM License,Software,5.0,2123.18,10615.9,South,Frank Lee,Completed
+ORD-00220,2024-06-19,Michael Harris,michael.harris@yahoo.com,Ergonomic Chair,Office,3.0,478.52,1435.56,East,Alice Chen,Completed
+ORD-00109,2024-05-04,James Johnson,james.johnson@outlook.com,Ergonomic Chair,Office,7.0,1607.83,11254.81,South,Emma Wilson,Completed
+ORD-00098,2024-05-31,  Susan Moore  ,,Wireless Projector,Office,4.0,600.63,2402.52,North,Frank Lee,Pending
+ORD-00169,2024-03-07,Susan White,susan.white@business.io,Email Marketing Tool,Software,1.0,908.62,908.62,Central,Alice Chen,Completed
+ORD-00074,2024-04-18,Patricia Miller,patricia.miller@corp.net,Onboarding Package,Services,20.0,2400.66,48013.2,East,Frank Lee,Completed
+ORD-00039,2024-05-15,William Garcia,william.garcia@business.io,Onboarding Package,Services,4.0,2193.82,8775.28,North,Alice Chen,Cancelled
+ORD-00105,2024-07-28,Joseph Moore,joseph.moore@corp.net,Support Plan,Services,3.0,1592.15,4776.45,North,Bob Martinez,Completed
+ORD-00173,2024-10-24,John Garcia,john.garcia@business.io,Support Plan,Services,10.0,1539.92,15399.2,South,Bob Martinez,Processing
+ORD-00172,2024-05-25,Linda Anderson,linda.anderson@business.io,Project Manager Pro,Software,6.0,413.29,2479.74,North,Carol Johnson,Completed
+ORD-00112,2024-02-02,Jessica Brown,jessica.brown@corp.net,Wireless Mouse,Electronics,9.0,140.46,1264.14,West,David Kim,Completed
+ORD-00031,2024-11-20,David Miller,david.miller@corp.net,Project Manager Pro,Software,10.0,1516.02,15160.2,East,Emma Wilson,Pending
+ORD-00068,2024-10-01,David Brown,david.brown@corp.net@extra@domain.com,Support Plan,Services,4.0,1805.99,7223.96,South,Bob Martinez,Completed
+ORD-00219,2024-10-01,Joseph Anderson,joseph.anderson@gmail.com,Support Plan,Services,11.0,1620.29,17823.19,South,Alice Chen,Completed
+ORD-00114,2024-06-13,Joseph Williams,joseph.williams@gmail.com,Wireless Projector,Office,4.0,1230.76,4923.04,Central,Bob Martinez,Completed
+ORD-00069,2024-05-31,Barbara Brown,barbara.brown@yahoo.com,Label Printer,Office,19.0,2441.74,46393.06,South,Carol Johnson,Completed
+ORD-00076,2024-04-29,Joseph Williams,joseph.williams@corp.net,Wireless Mouse,Electronics,10.0,1770.31,N/A,East,Frank Lee,Cancelled
+ORD-00030,2024-02-29,Patricia Jones,patricia.jones@outlook.com,Onboarding Package,Services,18.0,755.44,13597.92,North,Frank Lee,Cancelled
+ORD-00115,2024-09-28,David Thomas,david.thomas@business.io,Project Manager Pro,Software,20.0,1586.35,31727.0,East,David Kim,Cancelled
+ORD-00127,2024-07-13,Jessica Garcia,jessica.garcia@yahoo.com,Custom Training,Services,4.0,29.24,116.96,Central,Frank Lee,Completed
+ORD-00080,2024-11-29,Jennifer Harris,jennifer.harris@business.io,USB-C Hub,Electronics,19.0,110.17,2093.23,West,Carol Johnson,Completed
+ORD-00006,2024-11-21,Richard Wilson,richard.wilson@company.com,Onboarding Package,Services,8.0,2167.53,17340.24,East,Bob Martinez,Completed
+ORD-00057,2024-11-28,Mary Anderson,mary.anderson@yahoo.com,Onboarding Package,Services,,58.25,932.0,North,Frank Lee,Completed
+ORD-00121,2024-04-02,James Wilson,james.wilson@gmail.com,Email Marketing Tool,Software,18.0,2436.61,43858.98,East,Frank Lee,Completed
+ORD-00142,2024-03-11,Sarah Miller,,Analytics Suite,Software,,2369.68,26066.48,South,Alice Chen,Completed
+ORD-00153,2024-08-01,Susan Davis,susan.davis@business.io,Analytics Suite,Software,10.0,1078.79,10787.9,South,Frank Lee,Processing
+ORD-00066,2024-07-26,  John Moore  ,john.moore@yahoo.com,Wireless Projector,Office,15.0,1984.39,29765.85,South,Carol Johnson,Processing
+ORD-00136,2024-11-29,Mary White,mary.white@business.io,Wireless Projector,Office,19.0,1390.24,26414.56,South,Carol Johnson,Cancelled
+ORD-00199,2024-06-21,Jennifer Smith,,Support Plan,Services,15.0,1624.22,24363.3,East,Emma Wilson,Processing
+ORD-00139,2024-12-02,Richard Moore,richard.moore@outlook.com@extra@domain.com,USB-C Hub,Electronics,3.0,830.92,2492.76,Central,Bob Martinez,Completed
+ORD-00032,2024-06-19,William Johnson,william.johnson@gmail.com,Onboarding Package,Services,3.0,1589.36,4768.08,South,Frank Lee,Completed
+ORD-00013,2024-07-10,Barbara Miller,barbara.miller@yahoo.com,Support Plan,Services,17.0,2282.43,38801.31,South,Emma Wilson,Cancelled
+ORD-00036,2024-12-25,Linda Wilson,linda.wilson@yahoo.com,Project Manager Pro,Software,14.0,2007.56,28105.84,North,David Kim,Completed
+ORD-00029,2024-05-25,John Davis,john.davis@outlook.com,Project Manager Pro,Software,5.0,2333.81,11669.05,South,David Kim,Cancelled
+ORD-00043,2024-10-07,Jennifer Moore,jennifer.moore@company.com,Email Marketing Tool,Software,13.0,1696.51,22054.63,North,Carol Johnson,Completed
+ORD-00097,2024-05-08,Barbara Jackson,barbarajackson@corpnet,CRM License,Software,15.0,2363.63,35454.45,West,Carol Johnson,Completed
+ORD-00120,2024-07-07,Patricia Anderson,,Analytics Suite,Software,16.0,568.36,9093.76,North,Carol Johnson,Cancelled
+ORD-00194,2024-02-21,Linda Davis,linda.davis@gmail.com,Analytics Suite,Software,2.0,1677.88,3355.76,West,Carol Johnson,Processing
+ORD-00052,2024-12-22,Jessica Thomas,jessica.thomas@business.io,Wireless Projector,Office,2.0,525.01,1050.02,North,Emma Wilson,Pending
+ORD-00185,2024-01-09,Sarah Moore,sarah.moore@company.com,Custom Training,Services,17.0,2072.43,N/A,East,Carol Johnson,Processing
+ORD-00186,2024-12-01,James Harris,james.harris@outlook.com,4K Monitor,Electronics,19.0,776.11,14746.09,Central,Emma Wilson,Completed
+ORD-00077,2024-02-06,Robert Wilson,robert.wilson@yahoo.com,Email Marketing Tool,Software,4.0,1365.95,5463.8,North,Bob Martinez,Completed
+ORD-00042,2024-12-22,Jessica Taylor,jessica.taylor@company.com,USB-C Hub,Electronics,17.0,780.11,13261.87,East,Emma Wilson,Completed
+ORD-00102,2024-06-22,Sarah Moore,sarah.moore@corp.net,Support Plan,Services,9.0,2285.97,20573.73,North,David Kim,Completed
+ORD-00143,2024-03-08,Mary Taylor,mary.taylor@business.io,Mechanical Keyboard,Electronics,18.0,2089.44,37609.92,Central,David Kim,Completed
+ORD-00079,2024-02-16,David Wilson,david.wilson@gmail.com,Mechanical Keyboard,Electronics,2.0,2224.65,4449.3,South,Frank Lee,Cancelled
+ORD-00138,2024-05-24,Jennifer Anderson,jennifer.anderson@outlook.com,Wireless Projector,Office,17.0,1311.63,22297.71,West,David Kim,Completed
+ORD-00027,2024-07-21,David Davis,david.davis@outlook.com,Custom Training,Services,7.0,1677.61,11743.27,South,Frank Lee,Processing
+ORD-00154,2024-01-23,James Thomas,james.thomas@company.com,Mechanical Keyboard,Electronics,12.0,178.51,2142.12,West,Carol Johnson,Completed
+ORD-00193,2024-02-25,William Wilson,william.wilson@yahoo.com,Implementation,Services,7.0,513.14,3591.98,Central,Frank Lee,Cancelled
+ORD-00187,2024-05-04,Richard Jones,richard.jones@corp.net,Mechanical Keyboard,Electronics,16.0,434.57,6953.12,North,Emma Wilson,Processing
+ORD-00001,2024-10-06,Robert Brown,robert.brown@corp.net,Laptop Pro 15,Electronics,9.0,619.77,5577.93,North,Emma Wilson,Pending
+ORD-00003,2024-05-22,Jennifer Jackson,jennifer.jackson@outlook.com,Label Printer,Office,1.0,1899.42,1899.42,South,Bob Martinez,Completed
+ORD-00078,2024-09-13,Barbara Thomas,barbara.thomas@outlook.com,Implementation,Services,4.0,1177.05,4708.2,Central,David Kim,Pending
+ORD-00047,2024-04-22,James Brown,james.brown@company.com,Wireless Projector,Office,13.0,617.51,8027.63,South,Frank Lee,Cancelled
+ORD-00101,2024-03-08,Jessica Garcia,jessica.garcia@yahoo.com,CRM License,Software,10.0,823.52,8235.2,Central,Carol Johnson,Cancelled
+ORD-00116,2024-04-26,Michael Jackson,michael.jackson@company.com,Ergonomic Chair,Office,4.0,2133.44,8533.76,West,Carol Johnson,Pending
+ORD-00141,2024-07-04,  John Jackson  ,john.jackson@business.io,Label Printer,Office,5.0,1678.58,8392.9,North,Carol Johnson,Completed
+ORD-00168,2024-04-24,  Jennifer Anderson  ,jennifer.anderson@business.io,Custom Training,Services,6.0,1782.39,10694.34,North,Bob Martinez,Completed
+ORD-00091,2024-03-14,Joseph Smith,joseph.smith@corp.net,4K Monitor,Electronics,4.0,1319.61,5278.44,West,Frank Lee,Completed
+ORD-00086,2024-08-29,William Jackson,william.jackson@company.com,Email Marketing Tool,Software,10.0,1277.08,12770.8,South,David Kim,Cancelled
+ORD-00166,2024-05-26,Joseph Miller,joseph.miller@business.io,Ergonomic Chair,Office,9.0,1939.65,17456.85,West,Bob Martinez,Completed
+ORD-00155,2024-01-23,Patricia Taylor,patricia.taylor@yahoo.com,USB-C Hub,Electronics,3.0,868.55,2605.65,East,Emma Wilson,Completed
+ORD-00099,2024-04-27,Mary Harris,mary.harris@outlook.com,Onboarding Package,Services,19.0,2164.01,41116.19,Central,Carol Johnson,Completed
+ORD-00037,2024-04-26,Joseph Anderson,joseph.anderson@outlook.com,Standing Desk,Office,7.0,2043.29,14303.03,South,Alice Chen,Processing
+ORD-00137,2024-11-26,David Williams,,Standing Desk,Office,2.0,1131.79,2263.58,South,Alice Chen,Completed
+ORD-00062,2024-03-31,Joseph Jones,,Ergonomic Chair,Office,14.0,2402.35,33632.9,Central,Frank Lee,Completed
+ORD-00023,2024-05-26,Richard Wilson,richard.wilson@company.com,Ergonomic Chair,Office,6.0,953.63,5721.78,West,Frank Lee,Processing
+ORD-00119,2024-11-03,Jessica Johnson,jessica.johnson@outlook.com,Onboarding Package,Services,14.0,890.45,12466.3,East,Carol Johnson,Completed
+ORD-00217,2024-10-02,Barbara Thomas,barbara.thomas@yahoo.com,Label Printer,Office,14.0,1026.56,14371.84,West,Bob Martinez,Completed
+ORD-00133,2024-10-23,Sarah White,sarah.white@business.io,CRM License,Software,6.0,2378.71,14272.26,West,Frank Lee,Cancelled
+ORD-00034,2024-07-02,Barbara Anderson,barbara.anderson@gmail.com,Support Plan,Services,14.0,327.33,4582.62,South,Frank Lee,Completed
+ORD-00012,2024-08-10,David Brown,david.brown@outlook.com,Laptop Pro 15,Electronics,18.0,1879.68,33834.24,South,David Kim,Completed
+ORD-00181,2024-10-14,Richard Johnson,richard.johnson@business.io,Custom Training,Services,13.0,921.17,11975.21,South,Carol Johnson,Cancelled
+ORD-00183,2024-01-20,Richard Johnson,richard.johnson@gmail.com,Support Plan,Services,7.0,1510.12,10570.84,South,Frank Lee,Completed
+ORD-00007,2024-05-05,John Garcia,john.garcia@business.io,Support Plan,Services,9.0,1757.52,15817.68,South,David Kim,Pending
+ORD-00028,2024-11-14,John Smith,john.smith@company.com,Implementation,Services,11.0,2323.25,25555.75,Central,Alice Chen,Completed
+ORD-00144,2024-07-29,Jennifer White,jennifer.white@gmail.com,Analytics Suite,Software,20.0,2024.51,40490.2,East,Frank Lee,Processing
+ORD-00005,2024-02-05,Susan Miller,susan.miller@corp.net,Mechanical Keyboard,Electronics,,2075.21,20752.1,North,Frank Lee,Completed
+ORD-00123,2024-06-15,Jennifer Anderson,jennifer.anderson@outlook.com,Email Marketing Tool,Software,14.0,1139.57,15953.98,Central,Emma Wilson,Completed
+ORD-00033,2024-12-19,James Brown,james.brown@gmail.com,Email Marketing Tool,Software,18.0,1767.1,31807.8,South,Emma Wilson,Completed
+ORD-00182,2024-02-19,William Brown,william.brown@yahoo.com,Onboarding Package,Services,13.0,1265.59,16452.67,West,Carol Johnson,Completed
+ORD-00063,2024-02-14,  William Taylor  ,william.taylor@yahoo.com,Wireless Projector,Office,14.0,2066.07,28924.98,East,David Kim,Completed
+ORD-00129,2024-03-28,Richard Smith,richard.smith@outlook.com,Wireless Projector,Office,14.0,730.88,10232.32,Central,David Kim,Processing
+ORD-00212,2024-06-26,Linda Davis,linda.davis@company.com,Wireless Projector,Office,18.0,954.39,17179.02,South,Carol Johnson,Completed
+ORD-00176,2024-06-12,  Robert Taylor  ,robert.taylor@corp.net,Wireless Projector,Office,15.0,518.01,7770.15,East,David Kim,Completed
+ORD-00071,2024-04-04,Sarah White,sarah.white@outlook.com,Laptop Pro 15,Electronics,19.0,717.99,13641.81,North,Carol Johnson,Pending
+ORD-00179,2024-08-22,John Thomas,john.thomas@business.io,Wireless Projector,Office,10.0,1248.44,12484.4,South,Bob Martinez,Cancelled
+ORD-00065,2024-07-27,Michael Williams,michael.williams@yahoo.com,Custom Training,Services,18.0,35.27,634.86,West,Emma Wilson,Completed
+ORD-00045,2024-12-10,David Williams,david.williams@yahoo.com,CRM License,Software,10.0,1293.47,12934.7,East,Bob Martinez,Completed
+ORD-00151,2024-05-27,Robert Jackson,robert.jackson@gmail.com,Laptop Pro 15,Electronics,9.0,546.97,4922.73,South,Carol Johnson,Completed
+ORD-00041,2024-02-05,Michael Anderson,michael.anderson@company.com,Ergonomic Chair,Office,17.0,2314.67,39349.39,East,Emma Wilson,Completed
+ORD-00124,2024-08-14,Mary Williams,mary.williams@outlook.com,Wireless Mouse,Electronics,6.0,1888.54,11331.24,West,David Kim,Cancelled
+ORD-00024,2024-06-09,Mary Johnson,mary.johnson@corp.net,Standing Desk,Office,7.0,748.79,5241.53,North,Alice Chen,Cancelled
+ORD-00174,2024-08-01,William Miller,william.miller@business.io,Onboarding Package,Services,1.0,212.23,212.23,Central,Frank Lee,Completed
+ORD-00198,2024-08-27,Sarah Jones,sarah.jones@business.io,Custom Training,Services,15.0,2472.85,37092.75,East,Bob Martinez,Completed
+ORD-00082,2024-02-15,Richard Johnson,richard.johnson@company.com,Wireless Projector,Office,10.0,1659.82,16598.2,East,Carol Johnson,Completed
+ORD-00040,2024-04-07,  Patricia Thomas  ,patricia.thomas@business.io,Label Printer,Office,11.0,1096.61,12062.71,East,Alice Chen,Processing
+ORD-00196,2024-01-20,  John Davis  ,john.davis@business.io,Custom Training,Services,10.0,1618.28,16182.8,South,David Kim,Completed
+ORD-00048,2024-08-25,Patricia White,patricia.white@yahoo.com,Ergonomic Chair,Office,18.0,630.49,11348.82,Central,Emma Wilson,Cancelled
+ORD-00095,2024-02-10,Jennifer Garcia,jennifer.garcia@yahoo.com,Standing Desk,Office,8.0,1332.59,10660.72,Central,David Kim,Cancelled
+ORD-00177,2024-05-06,Patricia Wilson,patricia.wilson@company.com,Onboarding Package,Services,11.0,611.92,6731.12,South,Alice Chen,Completed
+ORD-00044,2024-08-14,David White,david.white@company.com,Email Marketing Tool,Software,19.0,1520.58,28891.02,South,Emma Wilson,Pending
+ORD-00146,2024-04-12,  Richard Jackson  ,richard.jackson@yahoo.com,Implementation,Services,15.0,1925.89,28888.35,Central,Bob Martinez,Completed
+ORD-00160,2024-02-22,Jennifer Moore,jennifer.moore@outlook.com,Ergonomic Chair,Office,14.0,1510.1,21141.4,North,Carol Johnson,Processing
+ORD-00004,2024-08-23,Susan Wilson,susan.wilson@gmail.com,Laptop Pro 15,Electronics,13.0,250.81,3260.53,Central,Alice Chen,Pending
+ORD-00106,2024-08-20,Linda Jones,linda.jones@company.com,USB-C Hub,Electronics,16.0,299.13,4786.08,East,Frank Lee,Processing
+ORD-00054,2024-12-13,Richard Taylor,richard.taylor@corp.net,Project Manager Pro,Software,14.0,1219.24,17069.36,West,Frank Lee,Completed
+ORD-00134,2024-06-04,Sarah White,sarah.white@corp.net@extra@domain.com,Custom Training,Services,5.0,1105.0,5525.0,East,Emma Wilson,Completed
+ORD-00213,2024-02-04,James Davis,james.davis@yahoo.com,Laptop Pro 15,Electronics,14.0,1541.15,21576.1,North,Emma Wilson,Completed
+,,,,,,,,,,,
+ORD-00218,2024-09-28,Jessica Jackson,jessica.jackson@business.io,Support Plan,Services,15.0,2287.7,34315.5,South,David Kim,Completed
+ORD-00050,2024-05-19,John Moore,john.moore@yahoo.com,Implementation,Services,8.0,693.74,5549.92,East,Carol Johnson,Cancelled
+ORD-00164,2024-07-09,Robert White,robert.white@outlook.com,Implementation,Services,19.0,90.63,1721.97,West,Alice Chen,Cancelled
+ORD-00081,2024-12-09,Jessica Taylor,not-an-email,Wireless Projector,Office,3.0,1180.32,3540.96,North,Bob Martinez,Completed
+ORD-00035,2024-03-24,Jessica Jones,jessica.jones@yahoo.com,USB-C Hub,Electronics,18.0,2211.49,39806.82,South,David Kim,Completed
+ORD-00008,2024-06-10,Mary Davis,mary.davis@gmail.com,Support Plan,Services,11.0,2108.69,23195.59,West,Carol Johnson,Completed
+ORD-00111,2024-07-02,James Jones,james.jones@gmail.com,Project Manager Pro,Software,6.0,283.71,1702.26,South,Emma Wilson,Completed
+ORD-00092,2024-12-11,Richard Williams,,4K Monitor,Electronics,9.0,853.01,7677.09,Central,David Kim,Completed
+ORD-00084,2024-12-23,Robert Moore,robert.moore@company.com,Wireless Projector,Office,2.0,516.85,1033.7,West,Alice Chen,Completed
+ORD-00209,2024-08-29,John Johnson,john.johnson@gmail.com,Laptop Pro 15,Electronics,14.0,867.87,12150.18,North,Carol Johnson,Pending
+ORD-00214,2024-10-03,  Richard White  ,richard.white@yahoo.com,Ergonomic Chair,Office,8.0,1853.94,14831.52,South,Alice Chen,Completed
+ORD-00090,2024-03-05,Robert Harris,robert.harris@gmail.com,Wireless Projector,Office,13.0,2471.14,32124.82,Central,Emma Wilson,Completed
+ORD-00009,2024-05-15,Richard White,richard.white@yahoo.com,Project Manager Pro,Software,7.0,1642.03,11494.21,South,Bob Martinez,Processing
+ORD-00014,2024-05-02,Patricia Anderson,patricia.anderson@outlook.com,Mechanical Keyboard,Electronics,11.0,1226.62,13492.82,North,Bob Martinez,Cancelled
+ORD-00060,2024-06-03,Linda Brown,linda.brown@corp.net,Wireless Projector,Office,7.0,199.22,1394.54,Central,Alice Chen,Cancelled
+ORD-00201,2024-07-15,Linda Smith,linda.smith@outlook.com,Wireless Mouse,Electronics,5.0,1198.85,5994.25,South,David Kim,Completed
+ORD-00132,2024-03-15,Robert Davis,robert.davis@gmail.com,Project Manager Pro,Software,12.0,1821.16,21853.92,East,Bob Martinez,Completed
+ORD-00018,2024-09-20,Mary Taylor,mary.taylor@gmail.com,Laptop Pro 15,Electronics,2.0,580.06,1160.12,South,Carol Johnson,Processing
+ORD-00167,2024-06-12,Joseph Williams,,CRM License,Software,15.0,439.9,6598.5,East,Frank Lee,Completed
+ORD-00073,2024-08-14,Linda Thomas,,Mechanical Keyboard,Electronics,14.0,1519.72,21276.08,East,Emma Wilson,Pending
+ORD-00206,2024-06-16,Michael Jones,michael.jones@yahoo.com,Laptop Pro 15,Electronics,18.0,2258.18,40647.24,Central,David Kim,Completed
+ORD-00135,2024-05-26,Mary Johnson,mary.johnson@outlook.com,Onboarding Package,Services,10.0,1159.73,11597.3,North,Frank Lee,Completed
+ORD-00191,2024-03-03,Susan Wilson,susan.wilson@outlook.com,Support Plan,Services,16.0,799.42,12790.72,Central,Frank Lee,Cancelled
+ORD-00216,2024-09-10,Jennifer Jackson,  jennifer.jackson@business.io,Custom Training,Services,2.0,1396.22,2792.44,North,Carol Johnson,Processing
+ORD-00064,2024-04-18,David Garcia,david.garcia@company.com,Wireless Projector,Office,11.0,81.45,895.95,East,Carol Johnson,Completed
+ORD-00055,2024-11-25,Richard Smith,richard.smith@gmail.com,Standing Desk,Office,20.0,1339.96,26799.2,West,Bob Martinez,Pending
+ORD-00108,2024-07-22,Susan Anderson,susan.anderson@gmail.com,Standing Desk,Office,12.0,257.38,3088.56,East,Bob Martinez,Completed
+ORD-00051,2024-07-31,  Robert Miller  ,robert.miller@gmail.com,Wireless Mouse,Electronics,5.0,585.83,2929.15,West,Carol Johnson,Cancelled
+ORD-00194,2024-02-21,Linda Davis,linda.davis@gmail.com,Analytics Suite,Software,2.0,1677.88,3355.76,West,Carol Johnson,Processing
+ORD-00175,2024-02-07,Richard Moore,richard.moore@company.com,Label Printer,Office,10.0,1212.52,12125.2,North,Bob Martinez,Pending
+ORD-00195,2024-08-31,Jennifer Jackson,jennifer.jackson@corp.net,Ergonomic Chair,Office,5.0,22.89,114.45,West,Frank Lee,Completed
+ORD-00190,2024-10-12,Michael Davis,michael.davis@outlook.com,Custom Training,Services,,1529.08,13761.72,East,Bob Martinez,Completed
+ORD-00102,2024-06-22,Sarah Moore,sarah.moore@corp.net,Support Plan,Services,9.0,2285.97,20573.73,North,David Kim,Completed
+ORD-00207,2024-03-08,Joseph Johnson,joseph.johnson@company.com,Email Marketing Tool,Software,3.0,2248.22,6744.66,Central,David Kim,Pending
+ORD-00170,2024-06-11,Jessica Williams,jessica.williams@yahoo.com,Implementation,Services,16.0,1318.97,21103.52,North,David Kim,Pending
+ORD-00059,2024-02-25,  Patricia Garcia  ,patricia.garcia@outlook.com,Label Printer,Office,12.0,427.78,5133.36,Central,Alice Chen,Completed
+ORD-00049,2024-08-31,Jessica White,jessica.white@yahoo.com,Implementation,Services,20.0,2039.36,40787.2,West,Carol Johnson,Completed
+ORD-00089,2024-07-29,Linda Thomas,linda.thomas@yahoo.com,Wireless Projector,Office,11.0,2175.3,23928.3,North,Carol Johnson,Processing
+ORD-00022,2024-07-27,John Davis,john.davis@yahoo.com,Laptop Pro 15,Electronics,18.0,2091.7,37650.6,West,David Kim,Completed
+ORD-00058,2024-08-30,Robert Davis,robert.davis@yahoo.com,Wireless Mouse,Electronics,7.0,2099.67,14697.69,North,Emma Wilson,Completed
+ORD-00204,2024-10-08,Susan Jackson,susan.jackson@corp.net,Analytics Suite,Software,16.0,391.42,6262.72,West,Emma Wilson,Processing
+ORD-00161,2024-08-15,Jessica Garcia,jessica.garcia@corp.net,Custom Training,Services,15.0,1510.52,22657.8,East,David Kim,Completed
+ORD-00179,2024-08-22,John Thomas,john.thomas@business.io,Wireless Projector,Office,10.0,1248.44,12484.4,South,Bob Martinez,Cancelled
+ORD-00188,2024-12-19,Jessica Jones,jessica.jones@company.com,Wireless Mouse,Electronics,1.0,1108.18,1108.18,South,David Kim,Cancelled
+ORD-00192,2024-05-27,Robert Moore,robert.moore@gmail.com,Wireless Projector,Office,12.0,2386.97,28643.64,North,Carol Johnson,Pending
+ORD-00130,2024-07-24,Linda Jackson,linda.jackson@business.io,Onboarding Package,Services,14.0,2112.76,29578.64,Central,Alice Chen,Pending
+ORD-00038,2024-11-24,John Wilson,john.wilson@outlook.com,Email Marketing Tool,Software,,703.71,7740.81,Central,David Kim,Processing
+ORD-00158,2024-03-04,Mary Taylor,mary.taylor@outlook.com,Project Manager Pro,Software,12.0,2156.71,25880.52,East,David Kim,Pending
+ORD-00049,2024-08-31,Jessica White,jessica.white@yahoo.com,Implementation,Services,20.0,2039.36,40787.2,West,Carol Johnson,Completed
+ORD-00002,2024-11-28,James Miller,james.miller@corp.net,Laptop Pro 15,Electronics,3.0,554.4,1663.2,Central,David Kim,Completed
+ORD-00053,2024-10-06,Richard Jackson,richard.jackson@business.io,Ergonomic Chair,Office,12.0,753.54,9042.48,Central,Bob Martinez,Pending
+ORD-00150,2024-08-28,Sarah Jones,sarah.jones@corp.net,Support Plan,Services,5.0,105.36,N/A,West,Emma Wilson,Completed
+ORD-00131,2024-11-20,Jennifer Williams,jennifer.williams@business.io,Custom Training,Services,8.0,839.33,6714.64,North,Emma Wilson,Cancelled
+ORD-00152,2024-09-12,Joseph Williams,joseph.williams@gmail.com,Wireless Mouse,Electronics,14.0,1600.98,22413.72,Central,Emma Wilson,Completed
+ORD-00104,2024-04-29,Susan Brown,susan.brown@corp.net,Label Printer,Office,9.0,1465.54,13189.86,West,Alice Chen,Cancelled
+ORD-00100,2024-01-18,Mary Moore,mary.moore@company.com,Project Manager Pro,Software,5.0,1574.33,7871.65,Central,Carol Johnson,Processing
+ORD-00117,2024-03-19,David Wilson,david.wilson@outlook.com,Wireless Projector,Office,4.0,788.24,3152.96,West,Alice Chen,Completed
+ORD-00088,2024-10-02,Sarah Jones,sarah.jones@company.com,USB-C Hub,Electronics,10.0,2095.31,20953.1,West,Carol Johnson,Completed
+ORD-00203,2024-05-31,Barbara Brown,barbara.brown@corp.net,4K Monitor,Electronics,10.0,407.68,4076.8,East,Emma Wilson,Completed
+ORD-00075,2024-08-18,Jennifer Smith,jennifer.smith@company.com,Analytics Suite,Software,6.0,1384.45,8306.7,Central,David Kim,Completed
+ORD-00215,2024-03-14,David Davis,david.davis@outlook.com,Support Plan,Services,19.0,804.06,15277.14,Central,Bob Martinez,Pending
+ORD-00211,2024-04-24,Richard Jones,richard.jones@corp.net,Project Manager Pro,Software,4.0,454.39,1817.56,North,Alice Chen,Completed
+ORD-00122,2024-03-13,Robert Thomas,robert.thomas@gmail.com,Custom Training,Services,1.0,461.69,461.69,North,Alice Chen,Processing
+,,,,,,,,,,,
+ORD-00021,2024-08-24,Jessica Garcia,jessica.garcia@outlook.com,Analytics Suite,Software,18.0,1127.04,20286.72,South,Alice Chen,Pending
+ORD-00189,2024-07-11,David Harris,david.harris@business.io,Ergonomic Chair,Office,5.0,1301.51,6507.55,East,Bob Martinez,Pending
+ORD-00072,2024-10-15,Mary Jones,mary.jones@yahoo.com,Laptop Pro 15,Electronics,13.0,1234.44,16047.72,East,Alice Chen,Completed
+ORD-00107,2024-01-17,Sarah Jackson,sarah.jackson@outlook.com,Standing Desk,Office,14.0,1640.75,N/A,East,Bob Martinez,Pending
+ORD-00015,2024-08-31,Robert Jones,robert.jones@corp.net,Laptop Pro 15,Electronics,16.0,2041.89,32670.24,Central,Bob Martinez,Completed
+ORD-00093,2024-02-16,Barbara Davis,barbara.davis@corp.net,Ergonomic Chair,Office,20.0,180.36,3607.2,West,Alice Chen,Processing
+ORD-00180,2024-01-05,Sarah Moore,sarah.moore@business.io,Onboarding Package,Services,2.0,710.57,1421.14,North,David Kim,Completed
+ORD-00103,2024-01-08,Susan Williams,susan.williams@company.com,Analytics Suite,Software,13.0,2418.49,31440.37,East,Emma Wilson,Completed

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Exports (keep directory, ignore generated files)
+exports/logs/*.log
+exports/*.xlsx
+exports/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.claude/
+.playwright-mcp/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
