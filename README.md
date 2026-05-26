@@ -189,8 +189,11 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ## Live Demo
 
-> *Add your Streamlit Cloud URL here after deployment.*
-> `https://your-app-name.streamlit.app`
+[Open the Excel Automation Tool](https://excel-automation-azarsyed.streamlit.app)
+
+Hosted on Streamlit Community Cloud. Upload your own CSV or XLSX, or
+use the packaged sample datasets, to see the full clean → validate →
+analyse → export pipeline in one click.
 
 ---
 
